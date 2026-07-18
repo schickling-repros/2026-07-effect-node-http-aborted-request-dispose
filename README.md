@@ -32,4 +32,4 @@ The same reproduction fails against Effect main at `ce95d88603e9facbcd6c462c5444
 
 ## Related Issue
 
-Pending
+https://github.com/Effect-TS/effect/issues/6485
